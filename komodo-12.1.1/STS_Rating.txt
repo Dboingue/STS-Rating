@@ -1,0 +1,50 @@
+STS Rating v14.0
+Number of cores: 16
+
+Engine: Komodo 12.1.1 64-bit
+Hash: 600, Threads: 1, time/pos: 0.080s
+
+Number of positions in STS1-STS15_LAN_v3.epd: 1500
+Max score = 1500 x 10 = 15000
+Test duration: 00h:02m:02s
+Expected time to finish: 00h:02m:45s
+STS rating: 3382
+
+  STS ID   STS1   STS2   STS3   STS4   STS5   STS6   STS7   STS8   STS9  STS10  STS11  STS12  STS13  STS14  STS15    ALL
+  NumPos    100    100    100    100    100    100    100    100    100    100    100    100    100    100    100   1500
+ BestCnt     81     70     76     75     77     75     74     56     64     78     72     78     79     68     48   1071
+   Score    855    803    848    849    838    875    819    724    744    854    800    852    852    772    727  12212
+Score(%)   85.5   80.3   84.8   84.9   83.8   87.5   81.9   72.4   74.4   85.4   80.0   85.2   85.2   77.2   72.7   81.4
+  Rating   3564   3332   3533   3537   3488   3653   3404   2981   3070   3559   3319   3551   3551   3194   2994   3382
+
+:: STS ID and Titles ::
+STS 01: Undermining
+STS 02: Open Files and Diagonals
+STS 03: Knight Outposts
+STS 04: Square Vacancy
+STS 05: Bishop vs Knight
+STS 06: Re-Capturing
+STS 07: Offer of Simplification
+STS 08: Advancement of f/g/h Pawns
+STS 09: Advancement of a/b/c Pawns
+STS 10: Simplification
+STS 11: Activity of the King
+STS 12: Center Control
+STS 13: Pawn Play in the Center
+STS 14: Queens and Rooks to the 7th rank
+STS 15: Avoid Pointless Exchange
+
+:: Top 5 STS with high result ::
+1. STS 06, 87.5%, "Re-Capturing"
+2. STS 01, 85.5%, "Undermining"
+3. STS 10, 85.4%, "Simplification"
+4. STS 12, 85.2%, "Center Control"
+5. STS 13, 85.2%, "Pawn Play in the Center"
+
+:: Top 5 STS with low result ::
+1. STS 08, 72.4%, "Advancement of f/g/h Pawns"
+2. STS 15, 72.7%, "Avoid Pointless Exchange"
+3. STS 09, 74.4%, "Advancement of a/b/c Pawns"
+4. STS 14, 77.2%, "Queens and Rooks to the 7th rank"
+5. STS 11, 80.0%, "Activity of the King"
+
